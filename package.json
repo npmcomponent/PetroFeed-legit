@@ -1,0 +1,12 @@
+{
+  "name": "petrofeed-legit",
+  "description": "Keeping your Javascript models legit since 2013.",
+  "version": "0.0.2",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "lodash-lodash": "git://github.com/npmcomponent/lodash-lodash.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}

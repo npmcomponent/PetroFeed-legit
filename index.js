@@ -1,5 +1,5 @@
-var _ = require('lodash');
-var Emitter = require('emitter');
+var _ = require('lodash-lodash');
+var Emitter = require('component-emitter');
 
 /**
  * Expose 'legit'
